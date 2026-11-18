@@ -24,5 +24,5 @@ A multi-page restaurant website built with HTML, CSS, JavaScript, and Webpack.
 [View Repository](https://github.com/soorekdev/the-slate-diner)
 
 ### Connect
-- TikTok: [Soorek](tiktok.com/@soorek_)
+- TikTok: [Soorek](https://www.tiktok.com/@soorek_)
 
