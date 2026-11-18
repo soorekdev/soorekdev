@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**soorekdev/soorekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Soorek ✦
 
-Here are some ideas to get you started:
+**Frontend Development | JavaScript | Building for the Web**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical web projects and share what I learn about web development.
+
+### Technologies & Tools
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Webpack
+
+### Currently
+- Improving my JavaScript skills.
+- Building projects with modern web development tools.
+- Exploring better ways to build responsive and accessible websites.
+
+### Featured Projects
+*Coming soon.*
+
+### Connect
+- TikTok: [Soorek](tiktok.com/@soorek_)
+
