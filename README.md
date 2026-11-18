@@ -18,7 +18,10 @@ I build practical web projects and share what I learn about web development.
 - Exploring better ways to build responsive and accessible websites.
 
 ### Featured Projects
-*Coming soon.*
+### 🍽️ The Slate Diner
+A multi-page restaurant website built with HTML, CSS, JavaScript, and Webpack.
+
+[View Repository](https://github.com/soorekdev/the-slate-diner)
 
 ### Connect
 - TikTok: [Soorek](tiktok.com/@soorek_)
